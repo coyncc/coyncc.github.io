@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About
+title:  ✉
 permalink: /about/
 ---
 
+
+<coyncc@gmail.com>
