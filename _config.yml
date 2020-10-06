@@ -1,9 +1,9 @@
 title: COYN
 author:
-  name:   
-  email: coyncc@gmail.com
+name:   
+#email: coyncc@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  ni.
+  生命不可负，可我在扯淡
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
