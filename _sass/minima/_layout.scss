@@ -247,6 +247,7 @@
   letter-spacing: -1px;
   font-weight: 460;
   line-height: 1.15;
+  color: $brand-color;
 
   @media screen and (min-width: $on-large) {
     @include relative-font-size(2);
