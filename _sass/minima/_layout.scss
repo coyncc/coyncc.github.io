@@ -245,6 +245,7 @@
 .post-content h1 {
   @include relative-font-size(1.375);
   letter-spacing: -1px;
+  font-weight: 440;
   line-height: 1.15;
 
   @media screen and (min-width: $on-large) {
