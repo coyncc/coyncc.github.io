@@ -6,6 +6,10 @@ title: 示例
 
 <a href="https://coyn.cc">coyn.cc</a>
 
+给我写信：
+
+<coyncc@gmail.com>
+
 一些图片
 
 ![myphoto](/images/example/myphoto.jpg)
