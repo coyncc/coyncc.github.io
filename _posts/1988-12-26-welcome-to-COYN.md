@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 示例
+category: blog
 ---
 记住我：
 
