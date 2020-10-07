@@ -2,6 +2,8 @@
 layout: post
 title: 示例
 category: blog
+author:
+- COYN
 ---
 记住我：
 
