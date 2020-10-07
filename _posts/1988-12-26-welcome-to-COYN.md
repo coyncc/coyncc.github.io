@@ -3,8 +3,8 @@ layout: post
 title: 示例
 description: 示例模板
 category: blog
-author:
-- COYN
+author: COYN
+meta: 模板
 ---
 记住我：
 
