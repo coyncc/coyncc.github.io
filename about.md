@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于
+title: 📧
 permalink: /about/
 ---
 
