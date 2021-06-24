@@ -11,7 +11,8 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%Y年%m月%d日"
-
+# Search
+search: true
   # generate social links in footer
   social_links:
     #twitter: jekyllrb
