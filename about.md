@@ -4,4 +4,4 @@ title: 📧
 permalink: /about/
 ---
 
-ynq@outlook.com
+coyncc@gmail.com
